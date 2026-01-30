@@ -1,0 +1,120 @@
+contract_analysis_template:
+    
+state:california
+
+  
+  core_contract_structure:
+  
+  - formation - correct
+    - consideration - correct
+    - mutual_assent - correct
+    - capacity - correct
+    - severability - correct
+    - modification - correct
+    - assignment - correct
+    - governing_law - correct
+    - venue_selection - correct
+
+  enforceability_and_fairness:
+  
+  - arbitration - corrrect
+   
+   - class_action_waiver - class_action_waiver:
+  enforceability_level: ENFORCEABLE
+  summary: >
+    Class action waivers in arbitration agreements are generally enforceable
+    in California due to federal preemption under the Federal Arbitration Act.
+    State rules invalidating such waivers are preempted, though waivers may
+    still be challenged under general contract defenses.
+  authority:
+    - AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011)
+  source:
+    - https://supreme.justia.com/cases/federal/us/563/333/ confidence: HIGH
+
+
+    - jury_trial_waiver - correct
+    - unconscionability - correct
+    - adhesion_contracts - correct
+    - liquidated_damages - correct
+    - penalty_clauses - correct
+
+  subscription_and_billing:
+
+    - auto_renewal - correct
+    - cancellation_rights - correct
+    - notice_requirements - correct
+    - refund_policies - correct
+    - trial_periods - correct
+    - price_changes - correct
+
+  fees_and_charges:
+
+    - late_fees - correct 
+    - returned_payment_fees - correct
+    - processing_fees - correct
+    - administrative_fees - correct
+    - fee_disclosures - correct
+
+  housing_and_leasing:
+
+    - security_deposits - correct
+    - lease_termination - corrrect
+    - habitability - correct
+    - rent_increases - correct
+    - entry_rights - correct
+    - eviction_notices - correct
+
+  employment:
+
+    - non_compete - correct
+    - non_solicitation - correct
+    - confidentiality - correct
+    - wage_deductions - correct
+    - overtime_waivers - correct
+    - classification - correct
+    - termination_notice - correct
+    - severance - correct
+
+  services_and_construction:
+
+    - scope_of_work - correct
+    - change_orders - correct
+    - payment_schedules - correct
+    - mechanics_liens - correct
+    - warranties - correct
+    - right_to_cancel - correct
+
+  privacy_and_data:
+
+    - data_collection - correct
+    - data_sharing - correct
+    - biometric_data - correct
+    - surveillance - correct
+    - recordings - correct
+
+  remedies_and_disputes:
+
+    - termination - correct
+    - breach - correct
+    - cure_periods - correct
+    - damages - correct
+    - injunctive_relief - correct 
+    - attorneys_fees - correct
+
+  legal_escalation_signals:
+
+    - mandatory_arbitration - correct
+    - rights_waivers - correct
+    - shortened_limitations - correct
+    - power_imbalance_indicators - correct
+
+
+
+
+
+
+
+
+
+
+
