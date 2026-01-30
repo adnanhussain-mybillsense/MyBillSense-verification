@@ -1,0 +1,130 @@
+CORE CONTRACT STRUCTURE
+
+formation - Mostly correct, but requires a citation fix. Alabama contract formation rules are accurate, but the Statute of Frauds should be split between Ala. Code § 8-9-2 and UCC § 7-2-201.
+
+consideration - correct 
+mutual_assent - correct
+capacity - correct
+severability - correct
+modification - correct
+
+assignment - NOTE:
+Alabama assignment section needs a scope fix. Ala. Code § 8-23-7 applies only to motor vehicle installment sales contracts, not to consumer service contracts generally. Summary should be narrowed to that context.
+
+governing_law - NOTE: Alabama Constitution Amendment 884 is not a governing-law or choice-of-law provision (it concerns religious freedom). Choice-of-law enforceability in Alabama is based on common law and public policy, not Amendment 884. The authority citation should be changed or removed.
+
+venue_selection - correct
+
+⚖️ Enforceability & Fairness arbitration:
+
+class_action_waiver - correct
+jury_trial_waiver - correct
+
+unconscionability - No. ❌
+It needs the landlord-tenant statute scope fix before it’s fully correct.
+
+adhesion_contracts - correct 
+liquidated_damages - correct
+penalty_clauses - correct
+
+🔄 Subscription & Billing auto_renewal
+
+cancellation_rights - correct
+notice_requirements - correct
+refund_policies - correct
+trial_periods - correct 
+price_changes - correct 
+
+💰 Fees & Charges late_fees
+
+returned_payment_fees - NOTE:
+Returned payment fees section overstates restrictions. Ala. Admin. Code r. 155-2-4-.12 applies only to deferred presentment transactions. Outside that context, NSF fees may be charged if permitted by contract and other applicable law; they are not limited solely to statute-authorized regimes.
+
+processing_fees - correct
+administrative_fees - correct
+fee_disclosures - correct
+
+🏠 Housing & Leasing
+
+security_deposits - correct
+lease_termination - correct
+habitability - correct
+
+rent_increases - NOTE: Alabama has no statewide cap on rent increases, but statutory notice requirements do apply to periodic tenancies (e.g., month-to-month).Summary should reflect required advance notice under landlord-tenant law.
+
+entry_rights - correct
+eviction_notices - correct
+
+👔 Employment
+
+non_compete - correct
+non_solicitation - correct
+confidentiality - correct
+
+wage_deductions - NOTE:
+Wage_deductions entry mis-cites Ala. Code § 31-13-16, which is unrelated to wage deductions. Alabama lacks a comprehensive wage-deduction statute, but deductions are governed by federal law AND general Alabama contract/common-law principles,not federal law alone.
+ 
+
+overtime_waivers - correct
+classification - correct
+termination_notice - correct
+severance - correct
+
+🏗️ Services & Construction scope_of_work
+
+change_orders - correct
+payment_schedules - correct
+mechanics_liens - correct
+warranties - corrcet
+right_to_cancel - correct
+
+🔐 Privacy & Data
+
+data_collection - correct
+data_sharing - correct
+biometric_data - correct
+surveillance - corrcet
+recordings - correct
+
+🚨 Remedies & Disputes
+
+termination -correct
+breach - correct
+cure_periods - correct
+damages - correct
+
+injunctive_relief - NOTE:
+Injunctive_relief entry mis-cites Ala. Code § 8-1-195, which applies only to restrictive covenants. ADTPA injunctive relief is authorized under differentsections (e.g., § 8-19-8). Authority citation should be corrected.
+ 
+
+attorneys_fees - correct
+
+🧠 Legal Escalation Signals (Meta) 
+
+mandatory_arbitration -correct
+rights_waivers - corrcet
+shortened_limitations - corrcet
+power_imbalance_ - corrcet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
