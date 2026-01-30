@@ -1,0 +1,130 @@
+
+### 🧾 Core Contract Structure ✅ 
+
+
+
+* formation -  correct
+* consideration -correct
+* mutual_assent - correct
+* capacity - correct
+* severability - correct
+* modification - correct
+* assignment -corrcet
+* governing_law -correct
+* venue_selection -correct
+
+
+ ⚖️ Enforceability & Fairness ✅ 
+
+
+* arbitration - correct
+* class_action_waiver - correct
+* jury_trial_waiver - correct
+* unconscionability - correct
+* adhesion_contracts - correct
+* liquidated_damages - correct
+* penalty_clauses -correct
+
+
+### 🔄 Subscription & Billing ✅ 
+
+
+* auto_renewal - correct
+* cancellation_rights - correct
+* notice_requirements - correct
+* refund_policies - correct
+* trial_periods - correc
+* price_changes - correct
+
+
+### 💰 Fees & Charges ✅ 
+
+
+* late_fees - correct
+
+
+ returned_payment_fees:
+  enforceability_level: SILENT
+  summary: >
+  Arkansas has no general statute authorizing or capping returned payment or NSF fees in consumer service or subscription contracts. Any such fees are governed by contract terms and general contract law.
+  note: > Arkansas does have a bounced-check statute allowing limited collection fees, but it applies to civil recovery for dishonored checks, not general subscriptions.
+  authority: - Ark. Code Ann. § 4-60-103 
+ source: - https://law.justia.com/codes/arkansas/title-4/subtitle-5/chapter-60/section-4-60-103/ confidence_level: MEDIUM
+
+
+* processing_fees - correct
+* administrative_fees - correct
+* fee_disclosures - correct
+
+
+### 🏠 Housing & Leasing ✅ 
+
+
+* security_deposits - correct 
+* lease_termination - correct
+* habitability - correct
+* rent_increases - correct
+* entry_rights -correct
+* eviction_notices - correct
+
+
+### 👔 Employment ✅ 
+
+
+* non_compete - correct
+* non_solicitation - correct 
+* confidentiality - correect
+* wage_deductions - correct
+* overtime_waivers - correct
+* classification - correct
+* termination_notice - correct
+* severance - correct
+
+
+
+### 🏗️ Services & Construction ✅ 
+
+
+* scope_of_work - correct
+* change_orders - correct
+* payment_schedules - correct
+* mechanics_liens - correct
+* warranties - correct
+* right_to_cancel - correct
+
+
+### 🔐 Privacy & Data ✅ 
+
+
+* data_collection - correct
+* data_sharing - correct
+* biometric_data - correct
+* surveillance - correct
+* recordings - corrrect 
+
+
+### 🚨 Remedies & Disputes ✅ 
+
+
+* termination - correct
+* breach - correct
+* cure_periods - correct
+* damages - correct
+* injunctive_relief - correct
+* attorneys_fees - correct
+
+
+### 🧠 Legal Escalation Signals (Meta)
+
+
+* mandatory_arbitration - arbitration:
+  enforceability_level: CONDITIONAL
+  summary: >  Arbitration clauses are enforced under ordinary contract law and may be invalidated if unconscionable.
+ authority:
+    - Jorja Trading, Inc. v. Willis, 2020 Ark. 133
+    - Funding Metrics, LLC v. Letha’s Pies, LLC, 2022 Ark. 73
+  confidence: HIGH
+
+* rights_waivers = correct
+* shortened_limitions = correct
+* power_imbalance_i = correct 
