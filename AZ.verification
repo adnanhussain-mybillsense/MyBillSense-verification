@@ -1,107 +1,116 @@
 ### 🧾 Core Contract Structure ✅ 
 
-* formation
-* consideration
-* mutual_assent
-* capacity
-* severability
-* modification
-* assignment
-* governing_law
-* venue_selection
+* formation - correct
+* consideration - correct
+* mutual_assent - correct
+* capacity - correct
+* severability - correct
+* modification - correct
+* assignment - correct
+* governing_law - correct
+* venue_selection - correct
 
 
 ### ⚖️ Enforceability & Fairness ✅ 
 
 
-* arbitration
-* class_action_waiver
-* jury_trial_waiver
-* unconscionability
-* adhesion_contracts
-* liquidated_damages
-* penalty_clauses
+* arbitration - correct
+* class_action_waiver - correct
+* jury_trial_waiver - correct
+* unconscionability - correct
+* adhesion_contracts - corrcet
+* liquidated_damages - correct
+* penalty_clauses - correct
 
 
 ### 🔄 Subscription & Billing ✅ 
 
-* auto_renewal
-* cancellation_rights
-* notice_requirements
-* refund_policies
-* trial_periods
-* price_changes
+* auto_renewal- correct
+* cancellation_rights - correct
+* notice_requirements - correct
+* refund_policies - correct
+* trial_periods - correct
+* price_changes - correct
 
 
 ### 💰 Fees & Charges ✅ 
 
-* late_fees
-* returned_payment_fees
-* processing_fees
-* administrative_fees
-* fee_disclosures
+* late_fees - corrcet
+* returned_payment_fees - correct
+* processing_fees - correct
+* administrative_fees - coorrect
+* fee_disclosures - correct
 
 
 ### 🏠 Housing & Leasing ✅ 
 
 
-* security_deposits
-* lease_termination
-* habitability
-* rent_increases
-* entry_rights
-* eviction_notices
+* security_deposits - correct
+* lease_termination - correct
+* habitability - correcy
+* rent_increases - correct
+* entry_rights - correct
+* eviction_notices - correct
 
 
 ### 👔 Employment ✅ 
 
 
-* non_compete
-* non_soliciation
-* confidentiality
-* wage_deductions
-* overtime_waivers
-* classification
-* termination_notice
-* severance
+* non_compete - correct
+* non_soliciation - correct
+* confidentiality - correct
+* wage_deductions - correct
+* overtime_waivers - correct
+* classification - correct
+* termination_notice - corrcet
+* severance - correct
 
 
 ### 🏗️ Services & Construction ✅ 
 
 
-* scope_of_work
-* change_orders
-* payment_schedules
-* mechanics_liens
-* warranties
-* right_to_cancel
+* scope_of_work - corrct
+* change_orders - correct
+* payment_schedules - correct
+* mechanics_liens - corrcet
+* warranties - corrcet
+* right_to_cancel - correct
 
 
 ### 🔐 Privacy & Data ✅ 
 
 
-* data_collection
-* data_sharing
-* biometric_data
-* surveillance
-* recordings
+* data_collection - corrcet
+* data_sharing -correct
+* biometric_data - correct
+* surveillance -correct
+* recordings - correct
 
 
 ### 🚨 Remedies & Disputes ✅ 
 
 
-* termination
-* breach
-* cure_periods
-* damages
-* injunctive_relief
-* attorneys_fees
+* termination - colrrect
+* breach - correct
+* cure_periods - correct
+* damages - correct
+* injunctive_relief - correct
+* attorneys_fees - correct
 
 
 ### 🧠 Legal Escalation Signals (Meta)
 
 
-* mandatory_arbitration
-* rights_waivers
-* shortened_limitations
-* power_imbalance_i
+* mandatory_arbitration -corrrect
+* rights_waivers - correct
+* shortened_limitations - correct
+* power_imbalance_i - correct 
+
+
+
+
+
+
+
+
+
