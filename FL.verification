@@ -1,0 +1,109 @@
+state: Florida
+
+  core_contract_structure:
+    - formation - corrrect
+    - consideration - correct
+    - mutual_assent - correct
+    - capacity - correct
+    - severability - correct
+    - modification - correct
+    - assignment - correct
+    - governing_law - correct
+    - venue_selection - correct
+
+  enforceability_and_fairness:
+    - arbitration - correct
+    - class_action_waiver - correct
+    - jury_trial_waiver - correct
+    - unconscionability - correct
+    - adhesion_contracts - correct
+    - liquidated_damages - correct
+    - penalty_clauses  - correct
+
+  subscription_and_billing:
+    - auto_renewal - correct
+    - cancellation_rights - correct
+    - notice_requirements - correct
+    - refund_policies - correct
+    - trial_periods - correct
+    - price_changes - correct
+
+  fees_and_charges:
+    - late_fees - correct
+    - returned_payment_fees - correct
+    - processing_fees - correct
+    - administrative_fees - correct
+    - fee_disclosures - correct
+
+  housing_and_leasing:
+    - security_deposits - correct
+    - lease_termination - correct
+    - habitability - correct
+    - rent_increases - correct
+    - entry_rights - correct
+    - eviction_notices - correct
+
+  employment:
+    - non_compete - 👉 Fix: Reframe CHOICE Act as proposed or pending legislation, not binding law.
+    - non_solicitation - correct
+    - confidentiality - correct
+    - wage_deductions correct 
+    - overtime_waivers - correct
+    - classification - correct
+    - termination_notice - correct
+    - severance - correct
+
+  services_and_construction:
+    - scope_of_work - Florida law does not impose a universal statute requiring home improvement
+contracts or change orders to be in writing. Fla. Stat. § 520.73 applies to
+motor vehicle repairs, not construction. Scope-of-work and change-order
+enforceability are primarily governed by contract terms and common law.
+
+    - change_orders - correct
+
+    - payment_schedules - 
+Florida’s Construction Lien Law (Fla. Stat. ch. 713) correctly grants lien
+rights to contractors, subcontractors, and suppliers, subject to strict
+notice and filing requirements.
+   
+   - mechanics_liens - correct
+    - warranties -incorrect needs to be fixed 
+    - right_to_cancel -incorrect needs to be fixed 
+
+  privacy_and_data:
+    - data_collection - correct
+    - data_sharing - correct
+    - biometric_data - ENFORCABLE 
+    - surveillance - LIMITED 
+    - recordings - CORRECT
+
+  remedies_and_disputes:
+    - termination - CORRECT
+    - breach - CORRECT
+    - cure_periods - CORRECT
+    - damages - CORRECT 
+    - injunctive_relief - correct
+    - attorneys_fees - correct
+
+  legal_escalation_signals:
+    - mandatory_arbitration - corrct
+
+    - rights_waivers -  The rights-waiver section mislabels the statute: Fla. Stat. § 501.708 is the Florida Digital Bill of Rights (FDBR) non-waiver provision, not FDUTPA. FDUTPA has anti-waiver principles, but not that section.
+
+    - shortened_limitations - correct
+    - power_imbalance_indicators - correct   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
